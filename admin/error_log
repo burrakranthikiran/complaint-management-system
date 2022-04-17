@@ -1,0 +1,56 @@
+[10-Apr-2022 10:26:45] PHP Warning:  require(core/session.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tsjaydmb/public_html/admin/add-grievance.php on line 2
+[10-Apr-2022 10:26:45] PHP Warning:  require(core/session.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tsjaydmb/public_html/admin/add-grievance.php on line 2
+[10-Apr-2022 10:26:45] PHP Warning:  require(core/session.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tsjaydmb/public_html/admin/add-grievance.php on line 2
+[10-Apr-2022 10:26:45] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'core/session.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/tsjaydmb/public_html/admin/add-grievance.php on line 2
+[10-Apr-2022 15:33:20] PHP Notice:  Undefined index:  id in /home/tsjaydmb/public_html/admin/delete_posts.php on line 4
+[11-Apr-2022 10:10:16] PHP Warning:  require(core/session.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tsjaydmb/public_html/admin/complaint.php on line 6
+[11-Apr-2022 10:10:16] PHP Warning:  require(core/session.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tsjaydmb/public_html/admin/complaint.php on line 6
+[11-Apr-2022 10:10:16] PHP Warning:  require(core/session.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tsjaydmb/public_html/admin/complaint.php on line 6
+[11-Apr-2022 10:10:16] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'core/session.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/tsjaydmb/public_html/admin/complaint.php on line 6
+[11-Apr-2022 10:10:42] PHP Warning:  require(core/session.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tsjaydmb/public_html/admin/complaint.php on line 6
+[11-Apr-2022 10:10:42] PHP Warning:  require(core/session.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tsjaydmb/public_html/admin/complaint.php on line 6
+[11-Apr-2022 10:10:42] PHP Warning:  require(core/session.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tsjaydmb/public_html/admin/complaint.php on line 6
+[11-Apr-2022 10:10:42] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'core/session.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/tsjaydmb/public_html/admin/complaint.php on line 6
+[11-Apr-2022 10:11:49] PHP Notice:  Undefined variable: _SESSION in /home/tsjaydmb/public_html/admin/complaint.php on line 7
+[11-Apr-2022 10:11:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'tsjaydmb'@'localhost' (using password: NO) in /home/tsjaydmb/public_html/admin/complaint.php on line 23
+[11-Apr-2022 10:11:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/tsjaydmb/public_html/admin/complaint.php on line 23
+[11-Apr-2022 10:11:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/tsjaydmb/public_html/admin/complaint.php on line 24
+[11-Apr-2022 10:11:49] PHP Notice:  Undefined variable: name in /home/tsjaydmb/public_html/admin/complaint.php on line 98
+[11-Apr-2022 10:11:49] PHP Warning:  include(footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/tsjaydmb/public_html/admin/complaint.php on line 161
+[11-Apr-2022 10:11:49] PHP Warning:  include(footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/tsjaydmb/public_html/admin/complaint.php on line 161
+[11-Apr-2022 10:11:49] PHP Warning:  include(footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/tsjaydmb/public_html/admin/complaint.php on line 161
+[11-Apr-2022 10:11:49] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/tsjaydmb/public_html/admin/complaint.php on line 161
+[11-Apr-2022 10:24:10] PHP Notice:  Undefined variable: _SESSION in /home/tsjaydmb/public_html/admin/complaint.php on line 7
+[11-Apr-2022 10:24:10] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'tsjaydmb'@'localhost' (using password: NO) in /home/tsjaydmb/public_html/admin/complaint.php on line 23
+[11-Apr-2022 10:24:10] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/tsjaydmb/public_html/admin/complaint.php on line 23
+[11-Apr-2022 10:24:10] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/tsjaydmb/public_html/admin/complaint.php on line 24
+[11-Apr-2022 10:24:10] PHP Notice:  Undefined variable: name in /home/tsjaydmb/public_html/admin/complaint.php on line 98
+[11-Apr-2022 10:24:10] PHP Warning:  include(footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/tsjaydmb/public_html/admin/complaint.php on line 161
+[11-Apr-2022 10:24:10] PHP Warning:  include(footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/tsjaydmb/public_html/admin/complaint.php on line 161
+[11-Apr-2022 10:24:10] PHP Warning:  include(footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/tsjaydmb/public_html/admin/complaint.php on line 161
+[11-Apr-2022 10:24:10] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/tsjaydmb/public_html/admin/complaint.php on line 161
+[11-Apr-2022 12:13:27] PHP Parse error:  syntax error, unexpected '<' in /home/tsjaydmb/public_html/admin/message.php on line 49
+[11-Apr-2022 18:09:56] PHP Parse error:  syntax error, unexpected T_DEC in /home/tsjaydmb/public_html/admin/admin-profile.php on line 149
+[11-Apr-2022 18:09:59] PHP Parse error:  syntax error, unexpected T_DEC in /home/tsjaydmb/public_html/admin/admin-profile.php on line 149
+[12-Apr-2022 05:53:48] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/tsjaydmb/public_html/admin/message-view.php on line 38
+[12-Apr-2022 05:53:50] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/tsjaydmb/public_html/admin/message-view.php on line 38
+[12-Apr-2022 05:53:59] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/tsjaydmb/public_html/admin/message-view.php on line 38
+[12-Apr-2022 05:54:24] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/tsjaydmb/public_html/admin/message-view.php on line 38
+[12-Apr-2022 05:54:50] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/tsjaydmb/public_html/admin/message-view.php on line 38
+[12-Apr-2022 05:55:05] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/tsjaydmb/public_html/admin/message-view.php on line 38
+[12-Apr-2022 05:55:32] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/tsjaydmb/public_html/admin/message-view.php on line 38
+[12-Apr-2022 11:31:49] PHP Parse error:  syntax error, unexpected '[' in /home/tsjaydmb/public_html/admin/cmpt.php on line 53
+[12-Apr-2022 11:31:58] PHP Parse error:  syntax error, unexpected '[' in /home/tsjaydmb/public_html/admin/cmpt.php on line 53
+[12-Apr-2022 16:24:12] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/tsjaydmb/public_html/admin/cmpt.php on line 115
+[13-Apr-2022 01:47:45] PHP Parse error:  syntax error, unexpected '[' in /home/tsjaydmb/public_html/admin/message-view.php on line 115
+[14-Apr-2022 03:13:22] PHP Parse error:  syntax error, unexpected T_DEC in /home/tsjaydmb/public_html/admin/admin-profile.php on line 48
+[14-Apr-2022 03:13:23] PHP Parse error:  syntax error, unexpected T_DEC in /home/tsjaydmb/public_html/admin/admin-profile.php on line 48
+[14-Apr-2022 03:13:35] PHP Parse error:  syntax error, unexpected T_DEC in /home/tsjaydmb/public_html/admin/admin-profile.php on line 48
+[14-Apr-2022 03:15:17] PHP Parse error:  syntax error, unexpected T_DEC in /home/tsjaydmb/public_html/admin/admin-profile.php on line 48
+[14-Apr-2022 03:15:19] PHP Parse error:  syntax error, unexpected T_DEC in /home/tsjaydmb/public_html/admin/admin-profile.php on line 48
+[15-Apr-2022 08:37:02] PHP Parse error:  syntax error, unexpected '<' in /home/tsjaydmb/public_html/admin/message-view.php on line 123
+[15-Apr-2022 08:37:04] PHP Parse error:  syntax error, unexpected '<' in /home/tsjaydmb/public_html/admin/message-view.php on line 123
+[16-Apr-2022 05:55:03] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/tsjaydmb/public_html/admin/users.php on line 111
+[16-Apr-2022 05:55:07] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/tsjaydmb/public_html/admin/users.php on line 111
+[16-Apr-2022 06:01:12] PHP Parse error:  syntax error, unexpected ';' in /home/tsjaydmb/public_html/admin/users.php on line 111
+[16-Apr-2022 06:01:14] PHP Parse error:  syntax error, unexpected ';' in /home/tsjaydmb/public_html/admin/users.php on line 111

@@ -1,0 +1,2 @@
+[13-Apr-2022 16:25:48] PHP Parse error:  syntax error, unexpected '}' in /home/tsjaydmb/public_html/dummy/message-view.php on line 76
+[15-Apr-2022 09:32:00] PHP Parse error:  syntax error, unexpected '>', expecting T_STRING or T_VARIABLE or '$' in /home/tsjaydmb/public_html/officers/profile.php on line 51
